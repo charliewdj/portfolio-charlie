@@ -868,6 +868,6 @@ svg {
 }
 
 .services__link {
-  color: color: var(--first-color);
+  color: var(--first-color);
   text-decoration: underline;
 }
