@@ -866,3 +866,8 @@ svg {
     right: 3rem;
   }
 }
+
+.services__link {
+  color: inherit;
+  text-decoration: underline;
+}
